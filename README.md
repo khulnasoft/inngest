@@ -1,4 +1,4 @@
-# [![Inngest](https://github.com/inngest/.github/raw/main/profile/github-readme-banner-2024-09-23.png)](https://www.inngest.com)
+# [![Inngest](https://github.com/khulnasoft/.github/raw/main/profile/github-readme-banner-2024-09-23.png)](https://www.inngest.com)
 
 [![Latest release](https://img.shields.io/github/v/release/khulnasoft/inngest?include_prereleases&sort=semver)](https://github.com/khulnasoft/inngest/releases)
 [![Test Status](https://img.shields.io/github/actions/workflow/status/khulnasoft/inngest/go.yaml?branch=main&label=tests)](https://github.com/khulnasoft/inngest/actions?query=branch%3Amain)
@@ -127,7 +127,7 @@ To understand how self-hosting works, it's valuable to understand the architectu
 
 We embrace contributions in many forms, including documentation, typos, bug reports or fixes. Check out our [contributing guide](/docs/CONTRIBUTING.md) to get started. Each of our open source [SDKs](#sdks) are open to contributions as well.
 
-Additionally, Inngest's website documentation is available for contribution in [the `inngest/website` repo](https://github.com/inngest/website).
+Additionally, Inngest's website documentation is available for contribution in [the `inngest/website` repo](https://github.com/khulnasoft/website).
 
 ## Self-hosting
 

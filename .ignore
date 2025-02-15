@@ -4,4 +4,4 @@
 /vendor/*
 !/vendor/github.com
 /vendor/github.com/*
-!/vendor/github.com/inngest
+!/vendor/github.com/khulnasoft

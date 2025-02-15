@@ -1,7 +1,7 @@
 # Inngest Dashboard
 
 This is the web application for Inngest Cloud. It’s a Next.js app that uses GraphQL to communicate
-with the [Inngest Cloud "App API"](https://github.com/inngest/monorepo). The app is hosted on Vercel and is the
+with the [Inngest Cloud "App API"](https://github.com/khulnasoft/monorepo). The app is hosted on Vercel and is the
 primary way to interact with Inngest Cloud.
 
 ## Setup
@@ -10,7 +10,7 @@ Before being able to run the app for the first time, you need to follow the step
 
 ### Prerequisites
 
-- Set up the [Cloud monorepo](https://github.com/inngest/monorepo) and have all backend services running locally
+- Set up the [Cloud monorepo](https://github.com/khulnasoft/monorepo) and have all backend services running locally
 - [Node.js 18](https://nodejs.org/en/download/)
 - Join the company's Vercel account
 
@@ -111,7 +111,7 @@ environment variable, add it with the `pnpm env:add` command and then download i
 
 ### Sign In
 
-Once you've run `make test-events` in the [Backend Monorepo](https://github.com/inngest/monorepo),
+Once you've run `make test-events` in the [Backend Monorepo](https://github.com/khulnasoft/monorepo),
 you can sign in using these credentials:
 
 - Username: `test@example.com`

@@ -17,7 +17,7 @@ set -e
 
 binname="inngest"
 reponame="inngest"
-base="https://github.com/inngest"
+base="https://github.com/khulnasoft"
 
 cat /dev/null <<EOF
 ------------------------------------------------------------------------
