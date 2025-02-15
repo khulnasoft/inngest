@@ -1,0 +1,16 @@
+{
+    "run": {
+        "skip-dirs": [
+            "vendor"
+        ],
+        "timeout": "10m"
+    },
+    "linters-settings": {
+        "staticcheck": {
+            "checks": [
+                "all",
+                "-SA1019"
+            ]
+        }
+    }
+}
